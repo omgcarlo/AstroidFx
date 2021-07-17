@@ -3,31 +3,31 @@ Scalper FX
 
 
 # Input Parameters
---- Account Settings ---
+### Account Settings 
 
-StartLot       = 0.01 
+* StartLot       = 0.01 
 
-EquityCompound = 0.1
+* EquityCompound = 0.1
 
-StartEquity    = 200
+* StartEquity    = 200
 
-MagicNumber    = 1234
+* MagicNumber    = 1234
 
 
---- MACD Parameters ---
+### MACD Parameters
 
-MACDOpenLevel  = 12
+* MACDOpenLevel  = 12
 
-MACDCloseLevel = 9
+* MACDCloseLevel = 9
 
-MATrendPeriod  = 26
+* MATrendPeriod  = 26
 
---- EMA parameters ---
+### EMA parameters 
 
-EMA_Fast = 8
+* EMA_Fast = 8
 
-EMA_Normal = 12
+* EMA_Normal = 12
 
-EMA_Slow = 21
+* EMA_Slow = 21
 
-EMA_VerySlow = 50
+* EMA_VerySlow = 50
