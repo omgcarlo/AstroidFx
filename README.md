@@ -1,6 +1,9 @@
 # AstroidFx
 Scalper FX
 
+### Suggested Trade Settings
+* Timeframe: 15M or any higher
+* Use trending pair
 
 # Input Parameters
 ### Account Settings 
